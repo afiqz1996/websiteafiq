@@ -1,0 +1,16 @@
+<svg width="135" height="135" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="137" width="137" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="40" id="svg_13" y="79.601061" x="3.031928" stroke-width="0" fill="#ffffff">A</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="40" id="svg_14" y="78.324466" x="103.031908" stroke-width="0" stroke="#ffffff" fill="#ffffff">Q</text>
+  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="40" id="svg_15" y="130.23935" x="56.648938" stroke-width="0" stroke="#000" fill="#ffffff">F</text>
+  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="17" id="svg_19" y="20.452136" x="46.010643" stroke-width="0" stroke="#000000" fill="#ffffff">1996</text>
+  <ellipse stroke="#ffffff" id="svg_16" cy="128.962754" cx="60.053193" stroke-width="1.5" fill="#000"/>
+  <ellipse stroke="#000000" id="svg_17" cy="58.32447" cx="116.223395" stroke-width="1.5" fill="#ffffff"/>
+ </g>
+</svg>
